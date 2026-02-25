@@ -1,4 +1,4 @@
-# Data Analytics Portfolio (GitHub)
+
 
 Hi! I’m a BSc (Hons) Business Data Analytics undergraduate at the **University of Westminster**, focused on bridging **business strategy** and **data-driven decision-making**.
 
